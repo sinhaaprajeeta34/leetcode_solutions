@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
