@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3310-remove-methods-from-project](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Minimax
 |  |
 | ------- |
