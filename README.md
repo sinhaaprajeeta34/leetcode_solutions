@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
+| [1288-remove-covered-intervals](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [1288-remove-covered-intervals](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Enumeration
 |  |
 | ------- |
