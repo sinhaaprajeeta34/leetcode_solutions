@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -147,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
