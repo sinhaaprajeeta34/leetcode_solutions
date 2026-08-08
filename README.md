@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
