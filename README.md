@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
