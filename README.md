@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
