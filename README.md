@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -188,18 +191,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 ## Number Theory
 |  |
 | ------- |
