@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
