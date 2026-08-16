@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
