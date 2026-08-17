@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
