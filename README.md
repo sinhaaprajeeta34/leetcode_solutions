@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
