@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
@@ -258,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
