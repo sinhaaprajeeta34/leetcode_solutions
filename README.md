@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1927-sum-game) |
