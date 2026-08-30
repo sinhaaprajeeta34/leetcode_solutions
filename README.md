@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0867-transpose-matrix](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -271,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1406-stone-game-iii) |
