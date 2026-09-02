@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Segment Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Counting
 |  |
 | ------- |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/sinhaaprajeeta34/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
